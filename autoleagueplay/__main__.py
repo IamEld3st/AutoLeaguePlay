@@ -2,7 +2,7 @@
 
 Usage:
     autoleagueplay setup <working_dir>
-    autoleagueplay (odd | even) [--replays=R|--list|--results|--test]
+    autoleagueplay (odd | even) [--replays=R|--list|--results|--test|--record]
     autoleagueplay test
     autoleagueplay fetch <week_num>
     autoleagueplay leaderboard (odd | even)
